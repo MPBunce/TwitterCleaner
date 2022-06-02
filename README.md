@@ -1,4 +1,4 @@
-#Twitter Scraper
+# Twitter Scraper
 
 Script to delete all of a users tweets and likes from their account.
 Some limitations due to the number of calls the Tweepy API allows. 
